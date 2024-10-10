@@ -1,39 +1,43 @@
+🌍 [Leia em Português](README.pt-BR.md)
+
 # Porto Autos
 
-Este é um projeto de website para a Porto Seguro, uma oficina automotiva fictícia visando a resolução do projeto apresentado no nosso challenge. O site foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de apresentar os serviços oferecidos pela oficina, incluindo um Assistente Virtual
+This is a website project for Porto Seguro, a fictitious automotive workshop aimed at solving the project presented in our challenge. The site was developed using HTML, CSS and JavaScript, with the aim of presenting the services offered by the workshop, including a Virtual Assistant
 
-## Sobre o Projeto
+## Tecnologias Utilizadas
 
-O projeto consiste em um site que seria uma extensão da Porto Seguro, chamado "Porto Autos" porque trata de automóveis. Ele foi feito visando a resolução do problema apresentado. Criamos uma oficina automotiva fictícia. Ele inclui páginas como:
+- `HTML` - Create the page structure.
+- `JavaScript` - Language used.
+- `Css` - Apply styles in the page.
 
-- Página inicial (index.html)
-- Página "Sobre Nós" (src/pages/sobre-nos.html)
-- Página "Participantes" (src/pages/participantes.html)
+## Passos para execução
 
-O site apresenta um design semelhante ao da porto seguro, e fizemos a implementação de um chatbot simulando um mecanico virtual para um melhor auxilio e suporte para o cliente.
+1. Clone the repository:
 
-## Estrutura do Projeto
+```bash
+git clone https://github.com/felipeclarindo/porto-autos-web.git
+```
 
-- **src/:** Contém os arquivos de recursos, como imagens, estilos CSS e scripts JavaScript.
-- **imgs/:** Pasta contendo imagens utilizadas no site.
-- **css/:** Pasta contendo os arquivos CSS.
-- **base/:** Arquivos CSS base, como reset e definição de fontes.
-- **components/:** Estilos específicos para componentes do site, como cabeçalho e rodapé.
-- **pages/:** Estilos específicos para páginas individuais do site.
-- **js/:** Arquivos JavaScript.
-- **pages/:** Pasta contendo outras páginas do site, como "Sobre Nós" e "Participantes".
-  **index.html:** Página inicial do site.
+2. Enter directory:
 
-## Repositorio
+```bash
+cd porto-autos-web
+```
 
-- [Link do Repositorio](https://github.com/felipeclarindo/porto-autos)
+3. Open the file `index.html`.
 
-## Colaboradores
+## Contribution
 
-- [Felipe Clarindo](https://github.com/felipeclarindo)
-- [Victor Augusto](https://github.com/victoraugustogfavaro)
-- [Gustavo Hiratsuka](https://github.com/HiraTK)
+Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## Contribuições
+## Author
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+**Felipe Clarindo**
+
+- [LinkedIn](https://www.linkedin.com/in/felipeclarindo)
+- [Instagram](https://www.instagram.com/lipethecoder)
+- [GitHub](https://github.com/felipeclarindo)
+
+## License
+
+This project is licensed under the [GNU Affero License](https://www.gnu.org/licenses/agpl-3.0.html).
